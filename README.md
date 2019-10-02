@@ -3,6 +3,6 @@
 
 [Hacktoberfest](https://hacktoberfest.digitalocean.com/)
 
-[Slides](https://slides.com/kikkirej/gitswk/)
+[Slides](https://slides.com/sbasischeck/gitswk/)
 
 neu: Roland lokal
